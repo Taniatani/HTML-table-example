@@ -1,0 +1,80 @@
+/*header section started*/
+*{margin,padding: 0px;}
+h1{
+	font-size: 23px;
+	font-weight: bold;
+	font-family: times new roman;
+}
+.header_area{
+	text-align: center;
+}
+
+.header_img{
+	width:100% ;
+	height: ;
+}
+
+.pp_img{    
+	width: 109px;
+    height: 130px;
+    border: 1px solid;
+}
+.t1{
+	height: 130px;
+}
+
+.p_2 th, .p_2 td{
+	padding: 2px;
+}
+
+.no_margin table{
+	margin :0px;
+}
+.no_padding table{
+	padding :0px;
+}
+.col-md-6 {
+    width: 50%;
+    padding-right: 0;
+}
+.col-md-5 {
+    width: 41.66666667%;
+    padding-left: 3px;
+}
+
+
+/*body section started*/
+
+table{
+	border: 1px solid;
+	width: 100%;
+
+}
+th, td{
+	font-family: times new roman;
+	font-size: 15px;
+}
+.border1 th, .border1 td{
+	border: 1px solid;
+	font-weight: bold;
+	text-align: center;
+}
+
+.m_t5 {
+    margin-top: 5px;
+}
+.mdl{
+	margin-right: 0px;
+}
+.merit{
+	height: 210px;
+	margin: 5px 0px;
+}
+table.merit.sig {
+    width: 645px;
+}
+/*footer section started*/
+
+.footer_area{
+	text-align: center;
+}
